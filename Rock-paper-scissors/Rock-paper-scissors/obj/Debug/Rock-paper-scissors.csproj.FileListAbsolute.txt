@@ -1,0 +1,8 @@
+C:\Users\yosia\source\repos\Rock-paper-scissors\Rock-paper-scissors\bin\Debug\Rock-paper-scissors.exe.config
+C:\Users\yosia\source\repos\Rock-paper-scissors\Rock-paper-scissors\bin\Debug\Rock-paper-scissors.exe
+C:\Users\yosia\source\repos\Rock-paper-scissors\Rock-paper-scissors\bin\Debug\Rock-paper-scissors.pdb
+C:\Users\yosia\source\repos\Rock-paper-scissors\Rock-paper-scissors\obj\Debug\Rock-paper-scissors.csproj.AssemblyReference.cache
+C:\Users\yosia\source\repos\Rock-paper-scissors\Rock-paper-scissors\obj\Debug\Rock-paper-scissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\yosia\source\repos\Rock-paper-scissors\Rock-paper-scissors\obj\Debug\Rock-paper-scissors.csproj.CoreCompileInputs.cache
+C:\Users\yosia\source\repos\Rock-paper-scissors\Rock-paper-scissors\obj\Debug\Rock-paper-scissors.exe
+C:\Users\yosia\source\repos\Rock-paper-scissors\Rock-paper-scissors\obj\Debug\Rock-paper-scissors.pdb
